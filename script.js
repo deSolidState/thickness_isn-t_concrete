@@ -7,7 +7,7 @@ function makePic(arr) {
 
   for (let i=0; i<arr.length; i++){
     const pic = document.createElement('img');
-    pic.src = 'oonggubb/' + arr[i];
+    pic.src = 'thickness_isn\'t_concrete/' + arr[i];
     pic.classList.add('gif');
     pic.setAttribute('alt', `${arr[i]} pic`);
 

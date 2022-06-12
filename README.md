@@ -1,2 +1,2 @@
-# thickness_isn-t_concrete
+# thickness isn't concrete
 Poem by Tim Combs - images generated from DALL-E AI text prompts
